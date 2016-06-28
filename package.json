@@ -9,9 +9,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "h5-menuview": "github:eleme/h5-menuview#0.3.1",
-    "h5-cartview": "github:eleme/h5-cartview#0.4.1",
-    "h5-component": "github:eleme/h5-component#0.3.8"
   },
   "repository": {
     "type": "git",
